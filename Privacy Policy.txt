@@ -1,0 +1,4 @@
+Privacy Policy:
+Disk Slicer does not collect any information such as: location, IP, accounts, passwords.
+The only data Disk Slicer stores is the level and score.
+Disk Slicer does not contain any ads.
